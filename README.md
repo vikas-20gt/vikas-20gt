@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate ...
-- 📫 you can reach me on Linkedintt
+- 📫 you can reach me on Linkedin
 
 <!---
 vikas-20gt/vikas-20gt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
